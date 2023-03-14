@@ -1,0 +1,13 @@
+----------------------------------------------------------------------------------
+
+03/03/2023
+
+1) - Testing Framework
+   - Write your own concurrent testing framework that you can use to test components of your 
+     emulator.
+
+----------------------------------------------------------------------------------
+
+14/03/2023
+
+- Make a .txt to .ch8 converter. I.e. read the given ascii file and output a binary file

@@ -1,0 +1,3 @@
+/home/Kaka/Program/Emulator/Chip8/Version2/src/debug/build/CMakeFiles/Debug.dir
+/home/Kaka/Program/Emulator/Chip8/Version2/src/debug/build/CMakeFiles/edit_cache.dir
+/home/Kaka/Program/Emulator/Chip8/Version2/src/debug/build/CMakeFiles/rebuild_cache.dir
