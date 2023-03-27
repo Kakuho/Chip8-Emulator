@@ -1,3 +1,7 @@
+# Chip8-Emulator
+
+An experimental emulator used to learn more about low level details of computer hardware and graphics rendering using the mature API OpenGL
+
 Key Mapping
 
 CHIP8   My system (Laptop with no numpad)
@@ -24,4 +28,4 @@ A       z
 0       x
 B       c
 F       v
-# Chip8-Emulator
+
