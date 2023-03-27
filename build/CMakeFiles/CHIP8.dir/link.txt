@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/CHIP8.dir/main.cpp.o CMakeFiles/CHIP8.dir/CPU.cpp.o CMakeFiles/CHIP8.dir/MMU.cpp.o CMakeFiles/CHIP8.dir/PixelBuffer.cpp.o CMakeFiles/CHIP8.dir/GraphicsManager.cpp.o CMakeFiles/CHIP8.dir/System.cpp.o CMakeFiles/CHIP8.dir/glad/src/glad.c.o -o CHIP8  /usr/lib64/libglfw.so.3.3 /usr/lib64/libGLX.so /usr/lib64/libOpenGL.so 
